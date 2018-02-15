@@ -7,7 +7,7 @@ import {
 } from "../components"
 
 const install = `
-composer require pre/parameter-loaders
+composer require pre/property-loaders
 `
 
 const example1Before = `
